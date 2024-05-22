@@ -8,6 +8,9 @@
 
 Принимаю активное участие в ML-тренировках и алгоритмических тренировках от Яндекс.
 
+## Контакты:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/H0wManyStarsInTheUniverse)
+
 ## Курсы:
 ![Data Science +](https://img.shields.io/badge/-Яндекс_Практикум_"Data_Science+"-090909?style=for-the-badge)
 ![NN_CV](https://img.shields.io/badge/-Deep_Learning_School_"Глубокое_обучение_по_NN_и_CV"-090909?style=for-the-badge)
